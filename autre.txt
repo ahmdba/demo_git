@@ -1,0 +1,3 @@
+Commande ECHO active.
+Ceci est un fichier texte.
+
